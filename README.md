@@ -1,2 +1,1 @@
-# PredictingMachineLearning
-Predicting household electric power using LSTM
+# Predicting household electric power using LSTM
